@@ -5,4 +5,5 @@ My area (Warszawa/Warsaw): ![time](https://img.shields.io/badge/Warsaw%20time-no
 <p align="left">I started coding/programming when i was only 8 or 6 yo</p>
 <p align="left">I know the basics of Python, Java and PHP</p>
 <h2 align="left">im using debian btw</h2>
+![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
 <h2 align="right">gagairc</h2>
