@@ -1,5 +1,5 @@
 Current time in my area (Warszawa/Warsaw):
-![clock](https://github-readme-time.vercel.app/api/time?timezone=Europe/Warsaw)
+![time](https://img.shields.io/badge/dynamic/json?color=blue&label=Warsaw%20time&query=datetime&url=http://worldtimeapi.org/api/timezone/Europe/Warsaw)
 
 <p align="left">v4ch</p>
 <h2 align="left">5 years of System Administration</h2>
