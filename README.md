@@ -3,4 +3,5 @@
 <p align="left">I started coding/programming when i was only 8 or 6 yo</p>
 <p align="left">I know the basics of Python, Java and PHP</p>
 <h2 align="left">im using debian btw</h2>
-<h2 align="right">gagairc <script>document.write(new Date().getFullYear())</script></h2>
+<h2 align="right">gagairc</h2>
+![clock](https://github-readme-time.vercel.app/api/time?timezone=Europe/Warsaw)
