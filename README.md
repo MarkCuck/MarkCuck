@@ -1,4 +1,4 @@
-Current time in my area (Warszawa/Warsaw): ![time](https://v1.timeapi.io/api/Time/current/zone?timeZone=Europe/Warsaw)
+Current time in my area (Warszawa/Warsaw): ![time](https://img.shields.io/badge/Warsaw-time-blue)
 
 <p align="left">v4ch</p>
 <h2 align="left">5 years of System Administration</h2>
