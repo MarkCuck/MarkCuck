@@ -1,7 +1,6 @@
 Current time in my area (Warszawa/Warsaw):
 ⏰ Warsaw time:
-
-![Time](https://img.shields.io/badge/dynamic/json?color=blue&label=Warsaw%20time&query=datetime&url=https://worldtimeapi.org/api/timezone/Europe/Warsaw)
+![Warsaw time](https://img.shields.io/badge/dynamic/json?color=blue&label=Warsaw%20time&query=unixtime&url=https://worldtimeapi.org/api/timezone/Europe/Warsaw)
 
 <p align="left">v4ch</p>
 <h2 align="left">5 years of System Administration</h2>
