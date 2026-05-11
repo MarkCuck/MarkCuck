@@ -1,5 +1,5 @@
 Current time in my area (Warszawa/Warsaw):
-![time](https://img.shields.io/badge/dynamic/json?color=blue&label=Warsaw%20time&query=unixtime&url=https://worldtimeapi.org/api/timezone/Europe/Warsaw&cacheSeconds=60)
+![time](https://img.shields.io/badge/Warsaw%20time-static-blue)
 <p align="left">v4ch</p>
 <h2 align="left">5 years of System Administration</h2>
 <p align="left">I started coding/programming when i was only 8 or 6 yo</p>
